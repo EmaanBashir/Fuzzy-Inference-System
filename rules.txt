@@ -1,0 +1,31 @@
+temp 	headache	age		urgency
+
+low	low		young		not urgent		
+low	moderate	young		less urgent
+low	high		young		urgent
+normal	low		young		not urgent
+normal	moderate	young		not urgent
+normal	high		young		less urgent
+high	low		young		less urgent
+high	moderate	young		urgent
+high	high		young		urgent
+
+low	low		middle age	not urgent
+low	moderate	middle age	less urgent
+low	high		middle age	urgent
+normal	low		middle age	not urgent
+normal	moderate	middle age	less urgent
+normal	high		middle age	urgent
+high	low		middle age	less urgent
+high	moderate	middle age	urgent
+high	high		middle age	extremely urgent
+
+low	low		old		not urgent
+low	moderate	old		less urgent
+low	high		old		urgent
+normal	low		old		not urgent
+normal	moderate	old		less urgent
+normal	high		old		urgent
+high	low		old		urgent
+high	moderate	old		extremely urgent
+high	high		old		extremely urgent
